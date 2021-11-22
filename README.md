@@ -23,4 +23,5 @@ yarn add --dev @uanbr/prettier-config
 
 ```bash
 yarn login
+yarn publish --access public
 ```
