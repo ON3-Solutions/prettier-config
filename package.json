@@ -1,10 +1,10 @@
 {
-  "name": "@uan/prettier-config",
+  "name": "@uanbr/prettier-config",
   "version": "1.0.0",
   "description": "Configuração da uan do Prettier do VS Code. Clonado do Lucas Azzola <lucas@azzola.dev> (git@github.com:azz/prettier-config.git)",
   "main": "index.json",
   "repository": {
-    "url": "https://github.com/ON3-Solutions/prettier-config",
+    "url": "https://example.com/your-username/my-new-project",
     "type": "git"
   },
   "author": "Jesus Saad <jesus@uan.com.br>",

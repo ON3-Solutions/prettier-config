@@ -1,4 +1,4 @@
-# `@uan/prettier-config`
+# `@uanbr/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @uan/prettier-config
+yarn add --dev @uanbr/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,8 +15,12 @@ $ yarn add --dev @uan/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@uan/prettier-config"
+  "prettier": "@uanbr/prettier-config"
 }
 ```
 
 ## Publicando do Yarn
+
+```bash
+yarn login
+```
